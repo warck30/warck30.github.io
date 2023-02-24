@@ -1,2 +1,2 @@
 # Моя страница
-Репозиторий с html css файлами моей страницы
+Dmitry Karpukhin | Moscow, Russia
