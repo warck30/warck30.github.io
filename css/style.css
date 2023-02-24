@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-image: url(../img/background.jpg);
+    background-size: 100%;
+
+    font-family: 'Yeseva One', sans-serif;
+    color: #333;
+    
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+	transition: 0.3s;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    align-items: center;
+
+}
+
+.content img {
+    display: block;
+    width: 200px;
+    border-radius: 100px;
+    margin: 50px auto 20px auto;
+}
+
+.basic {
+    align-self: center;
+    text-align: center;
+    font-size: 14px;
+}
+
+.contact {
+    margin-top: 30px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.contact span {
+    margin: 0 10px 0 10px;
+}
+
+.footer {
+    margin-top: 350px;
+    display: flex;
+    color: #333;
+
+}
+
+.footer .UPD {
+    align-self: center;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 10px;
+
+}
